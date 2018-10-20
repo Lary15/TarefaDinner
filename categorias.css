@@ -94,6 +94,10 @@ body {
     font-size: 14px;
 }
 
+.espacoNav {
+    margin-right: 10px;
+}
+
   /* FOOTER */
 .footer {
     font-family: 'Open Sans',  sans-serif;
@@ -112,10 +116,6 @@ body {
 
 .nomeFooter {
     font-size: 12px;
-}
-
-.espacoFooter {
-    margin-right: 10px;
 }
 
  /* PAGINATION */
